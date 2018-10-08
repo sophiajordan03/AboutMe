@@ -70,40 +70,22 @@ background-color:black;
   }
   .nav {
     background-color: #6E8898;
-    box-shadow: 6px 6px  #4F616C
+    box-shadow: 6px 6px  #4F616C;
 
 
-    ;
+    
   }
   
   .white-box {
-      background-color:#6E8898;
-      margin: 50px;
-      box-shadow: 10px 10px #4F616C
-
-
-      ;
-
-      height: 500px;
-      width: 90%;
-  }
-  img {
-    border-radius: 5%;
-}
-img.center{
-    display: block;
-    margin-left: auto;
+    background-color:#6E8898;
+    margin: 50px;
+    box-shadow: 10px 10px #4F616C;
+    height: 500px;
+    width: 90%;
+    vertical-align: center;
+    margin-left: auto; 
     margin-right: auto;
-}
-
-h1 {
-    font-size: 22px;
-    font-family: 'Raleway', sans-serif;
-    color:white;
-    text-align: center;
-}
-p{
-    font-size:15px;
-    color:white;
-    text-align:center
-}
+    
+    
+  }
+  
