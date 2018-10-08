@@ -71,10 +71,7 @@ background-color:black;
   .nav {
     background-color: #6E8898;
     box-shadow: 6px 6px  #4F616C;
-
-
-    
-  }
+}
   
   .white-box {
     background-color:#6E8898;
@@ -82,10 +79,6 @@ background-color:black;
     box-shadow: 10px 10px #4F616C;
     height: 500px;
     width: 90%;
-    vertical-align: center;
-    margin-left: auto; 
-    margin-right: auto;
-    
-    
-  }
+
+    }
   
