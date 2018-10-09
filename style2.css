@@ -81,3 +81,8 @@ background-color:black;
     
   }
   
+  .image-github {
+      margin: 0 auto;
+      height: 100%;
+      width: fit-content;
+  }

@@ -81,4 +81,13 @@ background-color:black;
       width: 90%;
     
 }
+iframe{
+    width: 60%;
+    height:480px;
+    margin:0 auto;
+    background-color:#777;
+    display:block;
+
+    
+}
   
