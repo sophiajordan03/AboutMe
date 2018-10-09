@@ -24,17 +24,17 @@ body{
     height : 40px;
     border-bottom: 1px solid #6E8898;
     font-family: 'Raleway', sans-serif;
-
+  
 }
 
 .nav a {
     text-decoration:none;
-    color:#fff;
     display:block;
     transition:.3s background-color;
     text-align:center;
     font-family: 'Raleway', sans-serif;
     font-size: 18.5px;
+    color:white;
    
 
 }
@@ -69,20 +69,16 @@ background-color:black;
     margin: 0 auto;
   }
   .nav {
+    box-shadow: 6px 6px  #4F616C;
     background-color: #6E8898;
-    box-shadow: 6px 6px  #4F616C
-
-
-    ;
   }
   
   .white-box {
-      background-color:#6E8898;
+      
       margin: 50px;
-      box-shadow: 10px 10px #4F616C
 
-
-      ;
+      box-shadow: 6px 6px  #4F616C;
+    background-color: #6E8898;
 
       height: 500px;
       width: 90%;

@@ -69,16 +69,16 @@ background-color:black;
     margin: 0 auto;
   }
   .nav {
-    background-color: #6E8898;
     box-shadow: 6px 6px  #4F616C;
+    background-color: #6E8898;
 }
   
   .white-box {
-    background-color:#6E8898;
     margin: 50px;
-    box-shadow: 10px 10px #4F616C;
+    box-shadow: 6px 6px  #4F616C;
+    background-color: #6E8898;
     height: 500px;
-    width: 90%;
-
-    }
+      width: 90%;
+    
+}
   
