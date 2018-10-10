@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 html{
     height:100%;
 }
@@ -70,28 +71,17 @@ background-color:black;
   .nav {
     box-shadow: 6px 6px  #4F616C;
     background-color: #6E8898;
-  }
-
-.white-box {
+    
+}
+  
+  .white-box {
     margin: 50px;
     box-shadow: 6px 6px  #4F616C;
     background-color: #6E8898;
     height: 500px;
       width: 90%;
     
-  }
-
-.white-box h1 {
-    font-family: raleway;
 }
 
-  .image-github {
-      margin: 0 auto;
-      height: 100%;
-      width: fit-content;
-  }
-h1 {
-    font-family: raleway;
-    text-align:center;
-    color:white;
-}
+
+
