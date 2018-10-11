@@ -34,7 +34,7 @@ body{
     transition:.3s background-color;
     text-align:center;
     font-family: 'Raleway', sans-serif;
-    font-size: 18.5px;
+    font-size:15px;
    
 
 }
@@ -51,7 +51,7 @@ background-color:black;
 }
 @media screen and (min-width:600px){
     .nav li{
-        width:120px;
+        width:200px;
         border-botton:none;
         height: 50px;
         line-height:50px;
@@ -65,7 +65,7 @@ background-color:black;
   }
   .nav ul {
     overflow: auto;
-    width: 360px;
+    width: 800px;
     margin: 0 auto;
   }
   .nav {
@@ -82,6 +82,51 @@ background-color:black;
       width: 90%;
     
 }
+h1{
+    
+    font-family: 'Raleway', sans-serif;
+    font-size:17px;
+    color:white;
+    text-align:center;
+}
+img.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+text-align:center;   
+color:white;
+font-size:14px;
+}
+h2{
+    font-size:17px;
+    font-family: 'Raleway', sans-serif;
+    color:white;
+    text-align:center;
 
+}
+.roles{
+text-align:center;   
+color:white;
+font-family: 'Raleway', sans-serif;
+display:inline-block;
+min-width:45%;
+
+}
+h3{
+    font-size:17px;
+    font-family: 'Raleway',sans-serif;
+    color:white;
+    text-align:right;
+}
+.contactus{
+    text-align:right;
+    color:white;
+    font-family:'Raleway',sans-serif;
+    display:inline-block;
+    min-width:50%;
+    font-size:14px;
+}
 
 

@@ -33,7 +33,7 @@ body{
     transition:.3s background-color;
     text-align:center;
     font-family: 'Raleway', sans-serif;
-    font-size: 18.5px;
+    font-size: 15px;
     color:white;
    
 
@@ -51,7 +51,7 @@ background-color:black;
 }
 @media screen and (min-width:600px){
     .nav li{
-        width:120px;
+        width:200px;
         border-botton:none;
         height: 50px;
         line-height:50px;
@@ -65,8 +65,9 @@ background-color:black;
   }
   .nav ul {
     overflow: auto;
-    width: 360px;
+    width: 800px;
     margin: 0 auto;
+
   }
   .nav {
     box-shadow: 6px 6px  #4F616C;
