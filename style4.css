@@ -8,6 +8,7 @@ body{
     background-image: linear-gradient(to bottom, #ffdab9, #ffdfd6, #ffe8ef, #fff4fd, #ffffff);
     font-family: 'Raleway', sans-serif;
     font-size:15px;
+    background-attachment:fixed;
     }
 .nav ul{
     list-style:none;
@@ -15,8 +16,7 @@ body{
     text-align:center;
     padding:0;
     margin:0;
-   
-}
+   }
 
 .nav li{
     font-size:1.2em;
@@ -78,7 +78,7 @@ background-color:black;
     margin: 50px;
     box-shadow: 6px 6px  #4F616C;
     background-color: #6E8898;
-    height: 500px;
+    min-height: 500px;
       width: 90%;
     
 }
@@ -118,15 +118,18 @@ h3{
     font-size:17px;
     font-family: 'Raleway',sans-serif;
     color:white;
-    text-align:right;
+    text-align: right;
 }
 .contactus{
-    text-align:right;
+    float:right;
     color:white;
     font-family:'Raleway',sans-serif;
     display:inline-block;
-    min-width:50%;
     font-size:14px;
+    width:50%;
+    text-align:center;
 }
-
+.contactus h3{
+    text-align:center;
+}
 
