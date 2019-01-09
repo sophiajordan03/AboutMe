@@ -10,21 +10,23 @@ body{
     font-size:15px;
     background-attachment:fixed;
     }
-.nav ul{
-    list-style:none;
-    background-color: #6E8898;
-    text-align:center;
-    padding:0;
-    margin:0;
-   }
+    .nav ul{
+        list-style:none;
+        background-color:#686868;
+        text-align:center;
+        padding:0;
+        margin:0;
+       
+    }
+    
 
-.nav li{
+   .nav li{
     font-size:1.2em;
     line-height: 40px;
     height : 40px;
-    border-bottom: 1px solid #6E8898;
+    border-bottom: 1px solid#686868;
     font-family: 'Raleway', sans-serif;
-
+  
 }
 
 .nav a {
@@ -45,7 +47,7 @@ background-color:black;
 }
 .nav a.active{
     background-color:#fff;
-    color:#6E8898;
+    color:#686868;
     cursor:default;
 
 }
@@ -69,18 +71,19 @@ background-color:black;
     margin: 0 auto;
   }
   .nav {
-    box-shadow: 6px 6px  #4F616C;
-    background-color: #6E8898;
-    
-}
+    box-shadow: 6px 6px #585858;
+    background-color: #686868;
+  }
   
   .white-box {
+      
     margin: 50px;
-    box-shadow: 6px 6px  #4F616C;
-    background-color: #6E8898;
-    min-height: 500px;
-      width: 90%;
-    
+
+    box-shadow: 6px 6px #585858;
+  background-color: #686868;
+
+    height: 500px;
+    width: 90%;
 }
 h1{
     
@@ -120,7 +123,7 @@ h3{
     color:white;
     text-align: right;
 }
-.contactus{
+.contactus {
     float:right;
     color:white;
     font-family:'Raleway',sans-serif;
